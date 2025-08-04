@@ -6,5 +6,5 @@ This is a fun Discord bot developed by Saksham that offers games, leaderboard, a
 - Includes a voting system integrated with top.gg
 - Stores only necessary data (like user points) for functionality
 
-**Privacy Policy**: [View here](https://saksham77323.github.io/privacy-policy)  
-**Terms of Service**: [View here](https://saksham77323.github.io/terms-of-service)
+**Privacy Policy**: [View here](https://saksham77323.github.io/fun-bot-legal/privacy-policy)  
+**Terms of Service**: [View here](https://saksham77323.github.io/fun-bot-legal/terms-of-service)
