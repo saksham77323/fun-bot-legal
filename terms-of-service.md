@@ -22,7 +22,7 @@ We reserve the right to block or ban users who misuse the bot.
 
 ## 4. Data Policy
 
-The bot stores limited information as described in our [Privacy Policy](https://yourusername.github.io/fun-bot-legal/privacy-policy).
+The bot stores limited information as described in our [Privacy Policy](https://saksham77323.github.io/fun-bot-legal/privacy-policy).
 
 ## 5. Termination
 
@@ -36,5 +36,3 @@ We may change these terms at any time. Continued use of the bot means you accept
 
 Questions or concerns? Reach out via:
 - Discord - @saksham733
-rofile or Repo URL]
-- Discord: [Your Discord tag or support server]
