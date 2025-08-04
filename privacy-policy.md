@@ -40,5 +40,3 @@ We may update this policy occasionally. Updates will be reflected on this page.
 
 For any concerns or data requests, contact us at:
 • Discord - @saksham733
-file or Repo URL]
-- Discord: [Your Discord tag or support server]
